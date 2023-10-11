@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Lucas Urquiza]
+# ¡Hola! 👋 Soy Lucas Urquiza
 
 ¡Bienvenido a mi rincón en GitHub! Soy un apasionado programador y diseñador web con un entusiasmo constante por aprender y mejorar mis habilidades. Aquí encontrarás algunos de mis proyectos y contribuciones en el mundo del desarrollo web.
 
